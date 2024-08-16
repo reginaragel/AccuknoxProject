@@ -1,0 +1,46 @@
+{
+    "dashboard": {
+      "categories": [
+        {
+          "id": "cspm_dashboard",
+          "name": "CSPM Executive Dashboard",
+          "widgets": [
+            {
+              "id": "widget_1",
+              "name": "Security Overview",
+              "text": "This widget shows the security overview of the organization."
+            },
+            {
+              "id": "widget_2",
+              "name": "Compliance Status",
+              "text": "This widget displays the compliance status of the systems."
+            }
+          ]
+        },
+        {
+          "id": "network_dashboard",
+          "name": "Network Monitoring Dashboard",
+          "widgets": [
+            {
+              "id": "widget_3",
+              "name": "Network Traffic",
+              "text": "This widget monitors real-time network traffic."
+            }
+          ]
+        }
+      ],
+      "availableWidgets": [
+        {
+          "id": "widget_4",
+          "name": "User Activity",
+          "text": "This widget shows the recent user activity."
+        },
+        {
+          "id": "widget_5",
+          "name": "Threat Intelligence",
+          "text": "This widget provides the latest threat intelligence reports."
+        }
+      ]
+    }
+  }
+  
